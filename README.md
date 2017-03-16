@@ -1,4 +1,10 @@
+## I guess I can start posting amazing data visualizations now!
+
+---------------
+
 ## This is my test page for data visualization class!
+
+I'm leaving the original instructions here...just in case.
 
 You can use the [editor on GitHub](https://github.com/ForthwriteStrategies/dataviz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
