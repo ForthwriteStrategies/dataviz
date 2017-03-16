@@ -1,4 +1,4 @@
-## Behold! Melissa's amazing data visualizations!
+## Progress! (But some issues...)
 
 This is an iFrame of something simple from week 2...
 
