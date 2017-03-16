@@ -13,7 +13,7 @@ This is the Highcharts chart
 <iframe src=”https://forthwritestrategies.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
 
 My charts are working and published, but I can't figure out why the iFrames aren't working.
-Charts can be found at -- https://forthwritestrategies.github.io/leaflet-map-simple and https://forthwritestrategies.github.io/highcharts-scatter-csv
+Charts can be found at -- [Link](https://forthwritestrategies.github.io/leaflet-map-simple) and [Link](https://forthwritestrategies.github.io/highcharts-scatter-csv)
 
 ---------------
 
