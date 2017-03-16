@@ -4,16 +4,21 @@ This is an iFrame of something simple from week 2...
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1MGjXs4jnvuaAevEo5psiB7E0OMIIzz0rrhHftYZw7-c/pubchart?oid=5951173&amp;format=interactive"></iframe>
 
+
+My week 3 charts are working and published -- [here](https://forthwritestrategies.github.io/leaflet-map-simple) and [here](https://forthwritestrategies.github.io/highcharts-scatter-csv) -- but I can't figure out why the iFrames aren't working.
+
+
 This is the Leaflet Map
+
 
 <iframe src=”https://forthwritestrategies.github.io/leaflet-map-simple” width=”90%” height=350></iframe>
 
+
 This is the Highcharts chart
+
 
 <iframe src=”https://forthwritestrategies.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
 
-My charts are working and published, but I can't figure out why the iFrames aren't working.
-Charts can be found at -- [Link](https://forthwritestrategies.github.io/leaflet-map-simple) and [Link](https://forthwritestrategies.github.io/highcharts-scatter-csv)
 
 ---------------
 
