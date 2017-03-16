@@ -1,5 +1,11 @@
 ## I guess I can start posting amazing data visualizations now!
 
+This is an iFrame of something simple from week 2...
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1MGjXs4jnvuaAevEo5psiB7E0OMIIzz0rrhHftYZw7-c/pubchart?oid=5951173&amp;format=interactive"></iframe>
+
+
+
 ---------------
 
 ## This is my test page for data visualization class!
