@@ -4,7 +4,15 @@ This is an iFrame of something simple from week 2...
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1MGjXs4jnvuaAevEo5psiB7E0OMIIzz0rrhHftYZw7-c/pubchart?oid=5951173&amp;format=interactive"></iframe>
 
+This is the Leaflet Map
 
+<iframe src=”https://forthwritestrategies.github.io/leaflet-map-simple/” width=”90%” height=350></iframe>
+
+This is the Highcharts chart
+
+<iframe src=”https://forthwritestrategies.github.io/highcharts-scatter-csv/” width=”90%” height=350></iframe>
+
+So excited!!!
 
 ---------------
 
