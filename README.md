@@ -1,11 +1,8 @@
-## Progress! (But some issues...)
+## Eureka! 
 
 This is an iFrame of something simple from week 2...
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1MGjXs4jnvuaAevEo5psiB7E0OMIIzz0rrhHftYZw7-c/pubchart?oid=5951173&amp;format=interactive"></iframe>
-
-
-## My week 3 charts are working and published -- [here](https://forthwritestrategies.github.io/leaflet-map-simple) and [here](https://forthwritestrategies.github.io/highcharts-scatter-csv) -- but I can't figure out why the iFrames aren't working.
 
 
 This is the Leaflet Map
