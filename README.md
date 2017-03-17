@@ -11,13 +11,13 @@ This is an iFrame of something simple from week 2...
 This is the Leaflet Map
 
 
-<iframe src=”https://forthwritestrategies.github.io/leaflet-map-simple” width=”90%” height=350></iframe>
+<iframe src="https://forthwritestrategies.github.io/leaflet-map-simple/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="350px" width="90%px" allowfullscreen></iframe>
 
 
 This is the Highcharts chart
 
 
-<iframe src=”https://forthwritestrategies.github.io/highcharts-scatter-csv” width=”90%” height=350></iframe>
+<iframe src="https://forthwritestrategies.github.io/highcharts-scatter-csv" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="350px" width="90%px" allowfullscreen></iframe>
 
 
 ---------------
